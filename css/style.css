@@ -1,0 +1,33 @@
+*{
+    font-family: 'Roboto Mono', monospace;
+}
+
+body {
+    background: rgb(251, 188, 255);
+    background: linear-gradient(0deg, rgba(251, 188, 255, 1) 0%, rgba(254, 241, 255, 1) 100%);
+}
+
+.h1{
+    font-size:55px;
+}
+.h2{
+    font-size:30px;
+}
+
+
+nav {
+    background: #db81d3;
+}
+
+.navbar a {
+    color: black;
+}
+
+.TextoPresentacion {
+    color: black;
+}
+
+.SectorRosa{
+    background: #db81d3;
+}
+
